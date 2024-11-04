@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/dayOneAPP/static/css/main.f855e6bc.css",
-    "main.js": "/dayOneAPP/static/js/main.cc2eedd5.js",
+    "main.css": "/dayOneAPP/static/css/main.e6c13ad2.css",
+    "main.js": "/dayOneAPP/static/js/main.19e72870.js",
     "static/js/453.d31b2a83.chunk.js": "/dayOneAPP/static/js/453.d31b2a83.chunk.js",
-    "static/media/logo.svg": "/dayOneAPP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/dayOneAPP/index.html",
-    "main.f855e6bc.css.map": "/dayOneAPP/static/css/main.f855e6bc.css.map",
-    "main.cc2eedd5.js.map": "/dayOneAPP/static/js/main.cc2eedd5.js.map",
+    "main.e6c13ad2.css.map": "/dayOneAPP/static/css/main.e6c13ad2.css.map",
+    "main.19e72870.js.map": "/dayOneAPP/static/js/main.19e72870.js.map",
     "453.d31b2a83.chunk.js.map": "/dayOneAPP/static/js/453.d31b2a83.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.cc2eedd5.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.19e72870.js"
   ]
 }
